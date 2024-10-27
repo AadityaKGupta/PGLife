@@ -47,7 +47,7 @@ PG Life is a user-friendly web application designed to simplify finding and mana
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PG-LIFE.git
+   git clone https://github.com/AadityaKGupta/PGLife.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -89,9 +89,9 @@ PG Life was inspired by the need for a convenient platform for finding and manag
 
 For inquiries, please reach out to:
 
-- **Name**: Your Name
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+- **Name**: Aaditya Gupta
+- **Email**: [k.aaditya.g@gmail.com](mailto:your.email@example.com)
+- **GitHub**: [AadityaKGupta](https://github.com/AadityaKGupta)
 
 --- 
 
