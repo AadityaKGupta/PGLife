@@ -1,7 +1,3 @@
-Here's an improved README file for the PG Life project on GitHub:
-
----
-
 # PG Life
 
 PG Life is a user-friendly web application designed to simplify finding and managing PG (Paying Guest) accommodations. The platform provides a streamlined interface for PG owners and potential tenants, making it easier to list and discover available properties.
