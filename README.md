@@ -32,12 +32,6 @@ PG Life is a user-friendly web application designed to simplify finding and mana
 
 ## Getting Started
 
-### Prerequisites
-
-- Web server (e.g., Apache or Nginx)
-- PHP (version 7 or later)
-- MySQL (version 5.7 or later)
-
 ### Installation
 
 1. **Clone the Repository**
