@@ -85,10 +85,6 @@ PG Life was inspired by the need for a convenient platform for finding and manag
 
 For inquiries, please reach out to:
 
-- **Name**: Aaditya Gupta
-- **Email**: [k.aaditya.g@gmail.com](mailto:your.email@example.com)
-- **GitHub**: [AadityaKGupta](https://github.com/AadityaKGupta)
-
---- 
-
-Let me know if you need any specific changes!
+- **Name**  :  Aaditya Gupta
+- **Email** :  [k.aaditya.g@gmail.com](mailto:your.email@example.com)
+- **GitHub**:  [AadityaKGupta](https://github.com/AadityaKGupta)
