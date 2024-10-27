@@ -44,3 +44,37 @@ PG Life is a comprehensive web application designed to help users find and manag
 
    ```bash
    git clone https://github.com/YOUR_USERNAME/PG-LIFE.git
+
+2. Navigate to the Project Directory:
+
+bash
+Copy code
+cd PG-LIFE
+Set Up the Database:
+
+Create a MySQL database and import the necessary SQL files (if any) provided in the repository.
+Configure the Environment:
+
+Update the database connection settings in the configuration file.
+Running the Application
+Start your web server.
+
+Navigate to the project directory in your browser:
+
+arduino
+Copy code
+http://localhost/PG-LIFE
+Contributing
+Feel free to contribute to the project by:
+
+Reporting Issues: Create issues on GitHub for bugs or feature requests.
+Pull Requests: Submit pull requests with improvements or bug fixes.
+Acknowledgments
+Inspired by the need for convenient accommodation searching and management.
+Built using modern web technologies to ensure a seamless user experience.
+Contact
+For inquiries, please reach out to:
+
+Name: Your Name
+Email: your.email@example.com
+GitHub: Your GitHub Profile
